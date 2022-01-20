@@ -13,4 +13,4 @@ nodeJS,Truffle,Ganache,Metamask client
    - truffle test
    - npm run dev
 
-Watch the Video: [Decentralized Student Council Elections](https://drive.google.com/file/d/111jynNLO-KNeL16gfL9QDwKZ2bpOVIGC/view?usp=sharing)
+Watch our DAPP Video: [Decentralized Student Council Elections](https://drive.google.com/file/d/111jynNLO-KNeL16gfL9QDwKZ2bpOVIGC/view?usp=sharing)
